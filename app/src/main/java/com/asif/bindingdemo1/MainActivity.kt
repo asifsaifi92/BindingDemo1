@@ -7,6 +7,7 @@ import com.asif.bindingdemo1.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {
+    //first
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
